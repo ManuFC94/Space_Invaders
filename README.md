@@ -4,13 +4,13 @@
 
 </div>
 
-## Introduction 🚀
+<div align="center">## Introduction 🚀</div>
 Welcome to the Space Invaders: Star Wars Edition repository! This project features a thrilling game that combines Space Invaders gameplay with the iconic Star Wars universe. Built using JavaScript and HTML Canvas, it offers an immersive gaming experience.
 
-## Gameplay 🌌
+<div align="center">## Gameplay 🌌</div>
 Take control of a starship and eliminate waves of invading foes. Use W,A,S,D keys to move and spacebar to fire lasers. Defeat enemies and protect the galaxy!
 
-## How to Play 🎮
+<div align="center">## How to Play 🎮</div>
 1. [Click here](https://tigscript.github.io/Space_Invaders/) or the image below to launch the game.
    
    [![Landing](imagenes/foto.png)](https://tigscript.github.io/Space_Invaders/)
