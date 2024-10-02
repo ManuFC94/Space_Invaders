@@ -23,7 +23,7 @@ Take control of a starship and eliminate waves of invading foes. Use W,A,S,D key
 ## How to Play 🎮
 1. [Click here](https://manufc94.github.io/Space_Invaders/) or the image below to launch the game.
    
-   [![Landing](imagenes/foto.png)](https://tigscript.github.io/Space_Invaders/)
+   [![Landing](imagenes/foto.png)](https://manufc94.github.io/Space_Invaders/)
 
 2. Use arrow keys to move.
 3. Press spacebar to fire lasers.
